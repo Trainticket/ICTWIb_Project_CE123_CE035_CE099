@@ -1,0 +1,537 @@
+<html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>jevin 12</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>jevin</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>jevin 12</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>jevin</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>jevin 12</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>jevin</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>jevin s</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>jevin</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>jevin s</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>jevin</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>j s</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>j</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 23</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 22</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 22</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 16</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 16</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>ds sx</td><td> Age : 23</td></th>
+                <tr><td></td></tr>
+                <tr><td>ds</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>ax ax</td><td> Age : 32</td></th>
+                <tr><td></td></tr>
+                <tr><td>ax</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>ax ax</td><td> Age : 32</td></th>
+                <tr><td></td></tr>
+                <tr><td>ax</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>ax ax</td><td> Age : 32</td></th>
+                <tr><td></td></tr>
+                <tr><td>ax</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>ax ax</td><td> Age : 32</td></th>
+                <tr><td></td></tr>
+                <tr><td>ax</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>ax ax</td><td> Age : 32</td></th>
+                <tr><td></td></tr>
+                <tr><td>ax</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>ax ax</td><td> Age : 32</td></th>
+                <tr><td></td></tr>
+                <tr><td>ax</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 23</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 18</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 19</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 23</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 23</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 17</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 19</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><table>
+                <th><td>s s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>sd sad</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>sd</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>sd sad</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>sd</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>s s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>as sad</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>as</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>as sad</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>as</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>s s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>s s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>s s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>s s</td><td> Age : 21</td></th>
+                <tr><td></td></tr>
+                <tr><td>s</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr><td colspan="2"><h3>Ahmedabad Shatabdi</h3></td></tr><tr><td>From</td><td><strong>Mumbai Central</strong></td></tr><tr><td>To</td><td><strong>Ahamdabad</strong></td></tr><tr><td>Starting time</td><td><strong>06:10</strong></td></tr><tr><td>Ending time</td><td><strong>10:30</strong></td></tr><tr><td>Availabel seat</td><td><strong style="color: red" id="availabel_seat">4</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr id="details-0"><td colspan="2"><h3>Chandigarh Shatabdi</h3></td></tr><tr id="details-1"><td>From</td><td><strong>New Delhi</strong></td></tr><tr id="details-2"><td>To</td><td><strong>Chandigarh</strong></td></tr><tr id="details-3"><td>Starting time</td><td><strong>07:20</strong></td></tr><tr id="details-4"><td>Ending time</td><td><strong>12:16</strong></td></tr><tr id="details-5"><td>Availabel seat</td><td><strong style="color: green" id="availabel_seat">400</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr id="details-0"><td colspan="2"><h3>Chandigarh Shatabdi</h3></td></tr><tr id="details-1"><td>From</td><td><strong>New Delhi</strong></td></tr><tr id="details-2"><td>To</td><td><strong>Chandigarh</strong></td></tr><tr id="details-3"><td>Starting time</td><td><strong>07:20</strong></td></tr><tr id="details-4"><td>Ending time</td><td><strong>12:16</strong></td></tr><tr id="details-5"><td>Availabel seat</td><td><strong style="color: green" id="availabel_seat">400</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html><html><head></head><body>
+                <h1>Train Booking ticket</h1><h2>Train Details</h2><br><table><tbody><tr id="details-0"><td colspan="2"><h3>Chandigarh Shatabdi</h3></td></tr><tr id="details-1"><td>From</td><td><strong>New Delhi</strong></td></tr><tr id="details-2"><td>To</td><td><strong>Chandigarh</strong></td></tr><tr id="details-3"><td>Starting time</td><td><strong>07:20</strong></td></tr><tr id="details-4"><td>Ending time</td><td><strong>12:16</strong></td></tr></tbody></table><table>
+                <th><td>abc abc</td><td> Age : 20</td></th>
+                <tr><td></td></tr>
+                <tr><td>abc</td></tr>
+
+                </table>
+                </body>
+                </html>
